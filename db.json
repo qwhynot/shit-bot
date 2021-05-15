@@ -1,0 +1,10 @@
+{
+  "coffees": [
+    {
+      "uuid": "c1",
+      "name": "Test Coffee",
+      "percent": "20%",
+      "price": "245 grn"
+    }
+  ]
+}
